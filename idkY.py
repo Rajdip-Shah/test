@@ -1,5 +1,1 @@
-print ('I am I am I')
-print ('I am I am I')
-print ('I am I am I')
-print ('I am I am I')
-print ('I am I am I')
+# hah cm
