@@ -1,2 +1,3 @@
-mult = lambda x, y: x * y 
-print (mult (5, 5))
+x, y = int(input("Enter a two value: ")), int (input("Enter a two value: "))
+mult = lambda x=x, y=y: x * y 
+print (mult ())
