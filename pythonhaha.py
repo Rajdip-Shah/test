@@ -1,9 +1,2 @@
-print ("Dragons Gona LOsRE tO shRk ")
-# nice 
-
-<<<<<<< HEAD
-# not nice 
-=======
-# added after branch 
-input ("Will you even remember this shit ?")
->>>>>>> new
+mult = lambda x, y: x * y 
+print (mult (5, 5))
