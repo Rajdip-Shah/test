@@ -1,6 +1,2 @@
-print("Dragons Gona LOsRE tO shRk ")
-# nice
-
-# added after branch
-input("Will you even remember this shit ?")
-# not nice
+x, y = int(input("Enter a two value: ")), int (input("Enter a two value: "))
+print (x * y)
