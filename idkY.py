@@ -1,9 +1,1 @@
-print ("ssf")
-print ("ssf")
-print ("ssf")
-print ("ssf")
-print ('I am I am I')
-print ('I am I am I')
-print ('I am I am I')
-print ('I am I am I')
-print ('I am I am I')
+#fuck what the fuck is going
